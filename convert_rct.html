@@ -243,15 +243,6 @@ for (color in RigdenColorblindTable)  {
 	if (!rct[hcg[0]])  rct[hcg[0]]=new Object;
 	if (!rct[hcg[0]][hcg[1]])  rct[hcg[0]][hcg[1]]=new Object;
 	rct[hcg[0]][hcg[1]][hcg[2]]=[
-/*
-		protan: RGB_Calc.to.hcg(RGB_Calc.from.hex(RigdenColorblindTable[color][0])).hcg,
-		deutan: RGB_Calc.to.hcg(RGB_Calc.from.hex(RigdenColorblindTable[color][1])).hcg,
-		tritan: RGB_Calc.to.hcg(RGB_Calc.from.hex(RigdenColorblindTable[color][2])).hcg  }  }
- *
-		protan: RGB_Calc.from.hex(RigdenColorblindTable[color][0]),
-		deutan: RGB_Calc.from.hex(RigdenColorblindTable[color][1]),
-		tritan: RGB_Calc.from.hex(RigdenColorblindTable[color][2])  }  }
- */
 		RGB_Calc.from.hex(RigdenColorblindTable[color][0]),
 		RGB_Calc.from.hex(RigdenColorblindTable[color][1]),
 		RGB_Calc.from.hex(RigdenColorblindTable[color][2])  ]  }
