@@ -13,3 +13,7 @@ https://github.com/SoftMoonWebWare/RGB_Calc-color-space-converter
 see a demo of the conversion quality at
 
 http://softmoon-webware.com/MasterColorPicker_instructions.php
+
+
+Note the webafe-interpolator function can support any dataset.
+The Rigden colorblind data is inplicitly included.
