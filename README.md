@@ -16,4 +16,4 @@ http://softmoon-webware.com/MasterColorPicker_instructions.php
 
 
 Note the websafe-interpolator function can support any dataset.
-The Rigden colorblind data is inplicitly included.
+The Rigden colorblind data is implicitly included.
