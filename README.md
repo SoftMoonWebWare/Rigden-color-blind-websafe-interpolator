@@ -1,7 +1,7 @@
 # Rigden-color-blind-websafe-interpolator
 high-quality color-blind filter function
 
-Interpolates any RGB color (16,777,216 of them) from up to 8 data-points of the Rigden websafe colorblind table.  Christine Rigden compiled the data by hand through testing of actual color-blind people.  The results seem better than the Daltanize algorithmic process.
+Interpolates any RGB color (16,777,216 of them) from up to 8 data-points of the Rigden websafe colorblind table.  Christine Rigden compiled the data by hand through testing of actual color-blind people.  The results seem better than the Daltonize algorithmic process.
 
 input a full-color RGB value
 it returns a color-blind simulation for protan, deutan, and/or tritan color-blind people.
