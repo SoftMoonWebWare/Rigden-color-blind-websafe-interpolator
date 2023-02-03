@@ -12,7 +12,9 @@ https://github.com/SoftMoonWebWare/RGB_Calc-color-space-converter
 
 see a demo of the conversion quality at
 
-http://softmoon-webware.com/MasterColorPicker_instructions.php
+https://softmoon-webware.com/MasterColorPicker_instructions.php
+
+When tyring the demo above, you can switch and make comparisons between this Rigden-colorblind-interpolated filter and the "old standard" Wickline-algorithmic-filter in the main "options" pulldown found in the upper-right corner of MasterColorPicker.
 
 
 Note the websafe-interpolator function can support any dataset.
